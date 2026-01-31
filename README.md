@@ -1,4 +1,6 @@
 💳 Project: Credit Card Fraud Detection (Task 9)
+
+
 📌 Project Overview
 This project focuses on identifying fraudulent credit card transactions. The primary challenge is the extreme class imbalance, as fraudulent transactions represent less than 0.2% of the total dataset.
 
@@ -22,6 +24,7 @@ F1-Score: The harmonic mean used to balance Precision and Recall.
 The Random Forest model identified specific anonymized features (such as V17, V14, and V12) as the most significant indicators of fraudulent activity. These patterns allow the model to distinguish suspicious behavior from normal spending habits.
 
 ✅ Deliverables Included
+
 Trained Model: Exported as fraud_model.pkl.
 
 Visualization: Feature Importance horizontal bar chart.
